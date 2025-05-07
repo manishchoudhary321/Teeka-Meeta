@@ -144,7 +144,7 @@ footer {
 .food-grid .food-item:nth-child(3) {
   animation-delay: 0.7s;
 }
-/* Add more nth-child rules if you have more food items */
+
 
 .food-item:hover {
   transform: translateY(-5px);
